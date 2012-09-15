@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.30729</ProductVersion>
+    <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{D0F74C5D-74EF-42FE-8257-07DBE2D3FFB5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -54,7 +54,7 @@
   <ItemGroup>
     <Reference Include="CallControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\홍준기\CallControl\CallControl\bin\Debug\CallControl.dll</HintPath>
+      <HintPath>..\..\..\CallControl_DLL\CallControl\CallControl\bin\Release\CallControl.dll</HintPath>
     </Reference>
     <Reference Include="mysql.data, Version=6.4.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -137,6 +137,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="VersionCheckForm.resx">
       <DependentUpon>VersionCheckForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>

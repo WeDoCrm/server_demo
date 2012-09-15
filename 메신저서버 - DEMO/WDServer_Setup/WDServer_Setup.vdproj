@@ -15,74 +15,32 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_1F5947503A3E476DBF8959A6604AA593"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_386CF07FC57B6DFABEDCF95E971A8015"
-        "OwnerKey" = "8:_FC78E849846447B2908DECB02BA910C7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_48845E1445855901CA87F8D845A2D64A"
+        "MsmKey" = "8:_14C922D390B129F879F030A4023D016D"
         "OwnerKey" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_48845E1445855901CA87F8D845A2D64A"
-        "OwnerKey" = "8:_F07A4A90ED7B4E569DC3F01F435FF37F"
+        "MsmKey" = "8:_14C922D390B129F879F030A4023D016D"
+        "OwnerKey" = "8:_6CC5B6FE7BBE4DB484D845D5C28AA023"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_55EC4B20BE2B4EA1B8018A3EB7AE4C49"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5D6AD442FA9CBC0F5EEB173EBEB02A9F"
+        "MsmKey" = "8:_4952AC967878D96222B51E1AABA16119"
         "OwnerKey" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5D6AD442FA9CBC0F5EEB173EBEB02A9F"
-        "OwnerKey" = "8:_F17CD14A4C0BA49A28733879B888EA33"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5D6AD442FA9CBC0F5EEB173EBEB02A9F"
-        "OwnerKey" = "8:_7F4539B52CAFC89A607864E0DB04C23B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6C7CF3EC1D0A41F7AA3A305730812FCA"
+        "MsmKey" = "8:_6CC5B6FE7BBE4DB484D845D5C28AA023"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7AB13E5408734E78807073D3AE4A69FF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7F4539B52CAFC89A607864E0DB04C23B"
+        "MsmKey" = "8:_8A10F05200E867D1F1FA85707A7EDAEF"
         "OwnerKey" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7F4539B52CAFC89A607864E0DB04C23B"
-        "OwnerKey" = "8:_F17CD14A4C0BA49A28733879B888EA33"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -93,25 +51,55 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C95F05C0A29B942EFE81A2C6EFB5FF5B"
+        "MsmKey" = "8:_A29542439E8EC953A539E5D2469526F4"
+        "OwnerKey" = "8:_8A10F05200E867D1F1FA85707A7EDAEF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A29542439E8EC953A539E5D2469526F4"
         "OwnerKey" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F07A4A90ED7B4E569DC3F01F435FF37F"
+        "MsmKey" = "8:_A29542439E8EC953A539E5D2469526F4"
+        "OwnerKey" = "8:_D19798254295E0E30204DE10943DE035"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B08E980C50954406B5D18D1274625C38"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F17CD14A4C0BA49A28733879B888EA33"
+        "MsmKey" = "8:_B939588211114678AAE3366F3D3AF09A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C2BC27FCD2734D48A204D7BA16F135E2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D19798254295E0E30204DE10943DE035"
+        "OwnerKey" = "8:_8A10F05200E867D1F1FA85707A7EDAEF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D19798254295E0E30204DE10943DE035"
         "OwnerKey" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FC78E849846447B2908DECB02BA910C7"
+        "MsmKey" = "8:_E4C157C6242E497FBCC192CC249323CE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -124,55 +112,43 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FC78E849846447B2908DECB02BA910C7"
+        "OwnerKey" = "8:_B08E980C50954406B5D18D1274625C38"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_386CF07FC57B6DFABEDCF95E971A8015"
+        "OwnerKey" = "8:_6CC5B6FE7BBE4DB484D845D5C28AA023"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F07A4A90ED7B4E569DC3F01F435FF37F"
+        "OwnerKey" = "8:_14C922D390B129F879F030A4023D016D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_7AB13E5408734E78807073D3AE4A69FF"
+        "OwnerKey" = "8:_8A10F05200E867D1F1FA85707A7EDAEF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C95F05C0A29B942EFE81A2C6EFB5FF5B"
+        "OwnerKey" = "8:_D19798254295E0E30204DE10943DE035"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F17CD14A4C0BA49A28733879B888EA33"
+        "OwnerKey" = "8:_A29542439E8EC953A539E5D2469526F4"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_48845E1445855901CA87F8D845A2D64A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_7F4539B52CAFC89A607864E0DB04C23B"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5D6AD442FA9CBC0F5EEB173EBEB02A9F"
+        "OwnerKey" = "8:_4952AC967878D96222B51E1AABA16119"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -280,65 +256,14 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F5947503A3E476DBF8959A6604AA593"
-            {
-            "SourcePath" = "8:..\\..\\AutoUpdater_svr_Demo\\AutoUpdater\\AutoUpdater\\bin\\Release\\AutoUpdater_Svr_Demo.exe.config"
-            "TargetName" = "8:AutoUpdater_Svr_Demo.exe.config"
-            "Tag" = "8:"
-            "Folder" = "8:_78FE37D569744697AA4E8C8285180E76"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_386CF07FC57B6DFABEDCF95E971A8015"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:TRUE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_386CF07FC57B6DFABEDCF95E971A8015"
-                    {
-                    "Name" = "8:Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_78FE37D569744697AA4E8C8285180E76"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_48845E1445855901CA87F8D845A2D64A"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_14C922D390B129F879F030A4023D016D"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Interop.WindowsInstaller, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_48845E1445855901CA87F8D845A2D64A"
+                    "_14C922D390B129F879F030A4023D016D"
                     {
                     "Name" = "8:Interop.WindowsInstaller.dll"
                     "Attributes" = "3:512"
@@ -362,147 +287,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_55EC4B20BE2B4EA1B8018A3EB7AE4C49"
-            {
-            "SourcePath" = "8:..\\..\\WinPcap_4_1_2.exe"
-            "TargetName" = "8:WinPcap_4_1_2.exe"
-            "Tag" = "8:"
-            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5D6AD442FA9CBC0F5EEB173EBEB02A9F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4952AC967878D96222B51E1AABA16119"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:PacketDotNet, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_5D6AD442FA9CBC0F5EEB173EBEB02A9F"
-                    {
-                    "Name" = "8:PacketDotNet.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:PacketDotNet.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6C7CF3EC1D0A41F7AA3A305730812FCA"
-            {
-            "SourcePath" = "8:..\\..\\이미지\\wedo.ico"
-            "TargetName" = "8:wedo.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7AB13E5408734E78807073D3AE4A69FF"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Interop.WindowsInstaller, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_7AB13E5408734E78807073D3AE4A69FF"
-                    {
-                    "Name" = "8:Interop.WindowsInstaller.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\AutoUpdater_svr_Demo\\AutoUpdater\\AutoUpdater\\bin\\Release\\Interop.WindowsInstaller.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_78FE37D569744697AA4E8C8285180E76"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7F4539B52CAFC89A607864E0DB04C23B"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:SharpPcap, Version=3.6.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_7F4539B52CAFC89A607864E0DB04C23B"
-                    {
-                    "Name" = "8:SharpPcap.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:SharpPcap.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C95F05C0A29B942EFE81A2C6EFB5FF5B"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MySql.Data, Version=6.4.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_C95F05C0A29B942EFE81A2C6EFB5FF5B"
+                    "_4952AC967878D96222B51E1AABA16119"
                     {
                     "Name" = "8:mysql.data.dll"
                     "Attributes" = "3:512"
@@ -526,20 +318,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F07A4A90ED7B4E569DC3F01F435FF37F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6CC5B6FE7BBE4DB484D845D5C28AA023"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:AutoUpdater_Svr_Demo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_F07A4A90ED7B4E569DC3F01F435FF37F"
+                    "_6CC5B6FE7BBE4DB484D845D5C28AA023"
                     {
                     "Name" = "8:AutoUpdater_Svr_Demo.exe"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\..\\AutoUpdater_svr_Demo\\AutoUpdater\\AutoUpdater\\bin\\Release\\AutoUpdater_Svr_Demo.exe"
+            "SourcePath" = "8:..\\..\\..\\AutoUpdater_svr_Demo\\AutoUpdater\\AutoUpdater\\bin\\Release\\AutoUpdater_Svr_Demo.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_78FE37D569744697AA4E8C8285180E76"
@@ -557,14 +349,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F17CD14A4C0BA49A28733879B888EA33"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8A10F05200E867D1F1FA85707A7EDAEF"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:CallControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_F17CD14A4C0BA49A28733879B888EA33"
+                    "_8A10F05200E867D1F1FA85707A7EDAEF"
                     {
                     "Name" = "8:CallControl.dll"
                     "Attributes" = "3:512"
@@ -588,21 +380,143 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FC78E849846447B2908DECB02BA910C7"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A29542439E8EC953A539E5D2469526F4"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:vshost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:PacketDotNet, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_FC78E849846447B2908DECB02BA910C7"
+                    "_A29542439E8EC953A539E5D2469526F4"
                     {
-                    "Name" = "8:AutoUpdater_Svr_Demo.vshost.exe"
+                    "Name" = "8:PacketDotNet.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\..\\AutoUpdater_svr_Demo\\AutoUpdater\\AutoUpdater\\bin\\Release\\AutoUpdater_Svr_Demo.vshost.exe"
+            "SourcePath" = "8:PacketDotNet.dll"
             "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B08E980C50954406B5D18D1274625C38"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Interop.WindowsInstaller, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_B08E980C50954406B5D18D1274625C38"
+                    {
+                    "Name" = "8:Interop.WindowsInstaller.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:C:\\eClues\\WeDo Server Demo\\Interop.WindowsInstaller.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_78FE37D569744697AA4E8C8285180E76"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B939588211114678AAE3366F3D3AF09A"
+            {
+            "SourcePath" = "8:..\\..\\..\\ETC\\WinPcap_4_1_2.exe"
+            "TargetName" = "8:WinPcap_4_1_2.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C2BC27FCD2734D48A204D7BA16F135E2"
+            {
+            "SourcePath" = "8:..\\..\\..\\Image\\wedo.ico"
+            "TargetName" = "8:wedo.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D19798254295E0E30204DE10943DE035"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SharpPcap, Version=3.6.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D19798254295E0E30204DE10943DE035"
+                    {
+                    "Name" = "8:SharpPcap.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:SharpPcap.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E4C157C6242E497FBCC192CC249323CE"
+            {
+            "SourcePath" = "8:..\\..\\..\\AutoUpdater_svr_Demo\\AutoUpdater\\AutoUpdater\\bin\\Release\\AutoUpdater_Svr_Demo.exe.config"
+            "TargetName" = "8:AutoUpdater_Svr_Demo.exe.config"
             "Tag" = "8:"
             "Folder" = "8:_78FE37D569744697AA4E8C8285180E76"
             "Condition" = "8:"
@@ -687,7 +601,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:WeDo Server Demo"
         "ProductCode" = "8:{D385B3AE-2814-4D55-B4AB-B4932ACC05D4}"
-        "PackageCode" = "8:{9CEBFC20-28C5-4521-ACAC-99150F0FD712}"
+        "PackageCode" = "8:{881DC073-913F-475E-8FF8-7C2EC711E678}"
         "UpgradeCode" = "8:{D32976AF-AE43-42F0-AF04-476E61FF1418}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
@@ -806,7 +720,21 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_04F05C7EA9594F8CAD42A7752491C2AA"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_23FC43AF397E4CC68C7E699B1457D1A0"
+            {
+            "Name" = "8:WeDO Server Demo"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
+            "Folder" = "8:_3EC281009EF54A4082C4B2788B8C1FB7"
+            "WorkingFolder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
+            "Icon" = "8:_C2BC27FCD2734D48A204D7BA16F135E2"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DB22BA6050924B70B7F525FBADEF593F"
             {
             "Name" = "8:WeDo Server Demo"
             "Arguments" = "8:"
@@ -817,26 +745,12 @@
             "Target" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
             "Folder" = "8:_52C2F00BD8564F1495FE74C52264DB8A"
             "WorkingFolder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Icon" = "8:_6C7CF3EC1D0A41F7AA3A305730812FCA"
+            "Icon" = "8:_C2BC27FCD2734D48A204D7BA16F135E2"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A22634B0378A4D50BEE1841819DDA57C"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DBC014BA2F334EEEB805B2AF2F076EDD"
             {
-            "Name" = "8:WD Server Demo"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
-            "Folder" = "8:_3EC281009EF54A4082C4B2788B8C1FB7"
-            "WorkingFolder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Icon" = "8:_6C7CF3EC1D0A41F7AA3A305730812FCA"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E2F31E9B50134658883906D10DE05FBA"
-            {
-            "Name" = "8:WD_Server"
+            "Name" = "8:WeDo Server Demo"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -845,7 +759,7 @@
             "Target" = "8:_9DFF7B12E78447EC82DFD524BEC8CF79"
             "Folder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
             "WorkingFolder" = "8:_F6187843D4204AAEB284F7A9A2C72575"
-            "Icon" = "8:_6C7CF3EC1D0A41F7AA3A305730812FCA"
+            "Icon" = "8:_C2BC27FCD2734D48A204D7BA16F135E2"
             "Feature" = "8:"
             }
         }
@@ -861,7 +775,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_19E075C3210C4E66BCBF2E297234621E"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:설치 폴더"
+                    "DisplayName" = "8:Installation Folder"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
@@ -896,7 +810,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_4ACE04B6DB6949589A728DE7F8493FA8"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:환영"
+                    "DisplayName" = "8:Welcome"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
@@ -944,7 +858,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_D26C4BEFF39A437099047B4888D64DBB"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:설치 확인"
+                    "DisplayName" = "8:Confirm Installation"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
@@ -981,7 +895,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_55C6F8CB8EC9445395150378F549C3EF"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:마침"
+                    "DisplayName" = "8:Finished"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
@@ -1012,7 +926,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_B51D7FC901F74D2C98F43CA63FE2DDF6"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:진행률"
+                    "DisplayName" = "8:Progress"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
@@ -1056,7 +970,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_A39181573AC0443CAF0D8E3DCBBF31A2"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:설치 확인"
+                    "DisplayName" = "8:Confirm Installation"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
@@ -1078,7 +992,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_D2ED38AD773C4A808DB1B7BA730B90A2"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:환영"
+                    "DisplayName" = "8:Welcome"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
@@ -1126,7 +1040,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F7598F3CB92C49248E4F7E556DDAAC2C"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:설치 폴더"
+                    "DisplayName" = "8:Installation Folder"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
@@ -1157,7 +1071,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F3B027C332FB4D8F88FEAD3B59C9D19F"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:진행률"
+                    "DisplayName" = "8:Progress"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
@@ -1207,7 +1121,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_53B9D7AD04524E0FA9EAE853B7BA1817"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:마침"
+                    "DisplayName" = "8:Finished"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"

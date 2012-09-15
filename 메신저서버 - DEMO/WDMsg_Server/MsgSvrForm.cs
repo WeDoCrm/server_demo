@@ -185,7 +185,7 @@ namespace WDMsgServer
         {
             try
             {
-                if (server_type.Equals("CID") || server_type.Equals("LG"))
+                if (server_type.Equals("CI1") || server_type.Equals("CI2") || server_type.Equals("LG"))
                 {
                     lock (CallLogTable)
                     {
@@ -1045,8 +1045,11 @@ namespace WDMsgServer
                             nicform.rbt_type_lg.Checked = true;
                             break;
 
-                        case "CID":
-                            nicform.rbt_type_cid.Checked = true;
+                        case "CI1":
+                            nicform.rbt_type_cid1.Checked = true;
+                            break;
+                        case "CI2":
+                            nicform.rbt_type_cid2.Checked = true;
                             break;
 
                         case "SS":
@@ -1062,7 +1065,8 @@ namespace WDMsgServer
 
                 nicform.btn_comfirm.MouseClick += new MouseEventHandler(btn_comfirm_MouseClick);
                 nicform.btn_cancel.MouseClick += new MouseEventHandler(btn_cancel_MouseClick);
-                nicform.rbt_type_cid.CheckedChanged += new EventHandler(rbt_type_CheckedChanged);
+                nicform.rbt_type_cid1.CheckedChanged += new EventHandler(rbt_type_CheckedChanged);
+                nicform.rbt_type_cid2.CheckedChanged += new EventHandler(rbt_type_CheckedChanged);
                 nicform.rbt_type_lg.CheckedChanged += new EventHandler(rbt_type_CheckedChanged);
                 nicform.rbt_type_ss.CheckedChanged += new EventHandler(rbt_type_CheckedChanged);
                 nicform.rbt_type_sip.CheckedChanged += new EventHandler(rbt_type_CheckedChanged);
@@ -2242,6 +2246,23 @@ namespace WDMsgServer
                     {
                         logWrite("Event : " + sEvent + "  FROM : " + infoarr[0] + " TO : " + infoarr[1] + "\r\n");
 
+                        if(infoarr[0].Length<5 && infoarr[1].Length<5)
+                        {
+
+                            logWrite("Internal Call Event");
+                            return;
+                        }
+                        else if (infoarr[0].Substring(0, 3).Equals(infoarr[1].Substring(0, 3)))
+                        {
+                            logWrite("Internal Call Event");
+                            return;
+                        }
+                        else if (ExtensionList.ContainsKey(infoarr[0]) && ExtensionList.ContainsKey(infoarr[2]))
+                        {
+                            logWrite("Internal Call Event");
+                            return;
+                        }
+
                         switch (sEvent)
                         {
                             case "Ringing":
@@ -2583,7 +2604,7 @@ namespace WDMsgServer
                             break;
                     }
                 }
-                else if (server_type.Equals("CID"))
+                else if (server_type.Equals("CI1") || server_type.Equals("CI2"))
                 {
                     logWrite("Event : " + sEvent + "  sInfo : " + sInfo + "\r\n");
                     string[] infoarr = sInfo.Split('>');
@@ -5854,43 +5875,49 @@ namespace WDMsgServer
 
         private void sendTestRing()
         {
-            Thread.Sleep(3000);
-            string aniNum = calltestform.txtbox_ani.Text;
-            string extNum = calltestform.txtbox_ext.Text;
-            int delay = Convert.ToInt32(calltestform.txtbox_time.Text);
-
-            
-
-            if (server_type.Equals("LG"))
+            try
             {
-                RecvMessage("Ringing", aniNum);
-                if (extNum.Length > 0)
+                Thread.Sleep(3000);
+                string aniNum = calltestform.txtbox_ani.Text;
+                string extNum = calltestform.txtbox_ext.Text;
+                int delay = Convert.ToInt32(calltestform.txtbox_time.Text);
+
+
+                if (server_type.Equals("LG"))
                 {
-                    Thread.Sleep(delay);
-                    RecvMessage("Answer", aniNum + ">" + extNum);
+                    RecvMessage("Ringing", aniNum);
+                    if (extNum.Length > 0)
+                    {
+                        Thread.Sleep(delay);
+                        RecvMessage("Answer", aniNum + ">" + extNum);
+                    }
+                }
+                else if (server_type.Equals("SIP"))
+                {
+                    string call_id = DateTime.Now.ToString("yyyyMMddHHmmss#" + aniNum);
+                    RecvMessage("Ringing", aniNum + "|" + extNum + "|" + call_id);
+                    if (extNum.Length > 0)
+                    {
+                        Thread.Sleep(delay);
+                        RecvMessage("Answer", aniNum + "|" + extNum + "|" + call_id);
+
+                        Thread.Sleep(delay);
+                        RecvMessage("HangUp", aniNum + "|" + extNum + "|" + call_id);
+                    }
+                }
+                else if (server_type.Equals("CI1") || server_type.Equals("CI2"))
+                {
+                    RecvMessage("Ringing", aniNum);
+                    if (extNum.Length > 0)
+                    {
+                        Thread.Sleep(delay);
+                        RecvMessage("OffHook", "");
+                    }
                 }
             }
-            else if(server_type.Equals("SIP"))
+            catch (Exception ex)
             {
-                string call_id = String.Format("{0x2}", DateTime.Now.ToString());
-                RecvMessage("Ringing", aniNum + "|" + extNum + "|" + call_id);
-                if (extNum.Length > 0)
-                {
-                    Thread.Sleep(delay);
-                    RecvMessage("Answer", aniNum + "|" + extNum + "|" + call_id);
-
-                    Thread.Sleep(delay);
-                    RecvMessage("HangUp", aniNum + "|" + extNum + "|" + call_id);
-                }
-            }
-            else if (server_type.Equals("CID"))
-            {
-                RecvMessage("Ringing", aniNum);
-                if (extNum.Length > 0)
-                {
-                    Thread.Sleep(delay);
-                    RecvMessage("OffHook", "");
-                }
+                logWrite(ex.ToString());
             }
         }
 
